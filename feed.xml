@@ -5,20 +5,37 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2012-12-30T06:28:00Z</updated>
+  <updated>2013-01-01T02:33:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>Hello World</title>
-    <link rel="alternate" href="/2012/12/30/hello-world.html"/>
-    <id>/2012/12/30/hello-world.html</id>
-    <published>2012-12-30T06:28:00Z</published>
-    <updated>2012-12-30T06:28:00Z</updated>
+    <title>Post Pertama di 2013</title>
+    <link rel="alternate" href="/2013/01/01/post-pertama-di-2013.html"/>
+    <id>/2013/01/01/post-pertama-di-2013.html</id>
+    <published>2013-01-01T02:33:00Z</published>
+    <updated>2013-01-01T02:33:00Z</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <summary type="html"></summary>
-    <content type="html"></content>
+    <summary type="html">&lt;p&gt;Di tahun 2013 ini, saya mencoba untuk aktif nge-blog lagi. Tapi berbeda
+dengan blog-blog sebelumnya yang cenderung personal dan umum, kali ini
+saya mencoba untuk fokus membahas hal-hal yang terkait dengan web
+design/development saja. &lt;/p&gt;
+
+&lt;p&gt;Fungsi utama dari blog ini adalah untuk &lt;em&gt;personal learning&lt;/em&gt; dan *future&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;Di tahun 2013 ini, saya mencoba untuk aktif nge-blog lagi. Tapi berbeda
+dengan blog-blog sebelumnya yang cenderung personal dan umum, kali ini
+saya mencoba untuk fokus membahas hal-hal yang terkait dengan web
+design/development saja. &lt;/p&gt;
+
+&lt;p&gt;Fungsi utama dari blog ini adalah untuk &lt;em&gt;personal learning&lt;/em&gt; dan &lt;em&gt;future
+reference&lt;/em&gt; buat saya pribadi, dan mudah-mudahan juga bisa bermanfaat buat
+orang lain. &lt;/p&gt;
+
+&lt;p&gt;Di post berikutnya, saya akan membahas &lt;em&gt;technology stack&lt;/em&gt; yang digunakan oleh
+blog ini, &lt;em&gt;see you&lt;/em&gt;...&lt;/p&gt;
+</content>
   </entry>
 </feed>
