@@ -5,10 +5,64 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2013-01-01T02:33:00Z</updated>
+  <updated>2013-03-18T13:20:00Z</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Ingin Menulis Tentang Apa?</title>
+    <link rel="alternate" href="/2013/03/18/ingin-menulis-tentang-apa.html"/>
+    <id>/2013/03/18/ingin-menulis-tentang-apa.html</id>
+    <published>2013-03-18T13:20:00Z</published>
+    <updated>2013-03-18T13:20:00Z</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <summary type="html">&lt;p&gt;Untuk bisa tetap menulis blog secara konsisten saat ini ternyata jauh lebih sulit dari yang saya bayangkan. Salah satu kendalanya saya pikir bukan karena saya kekurangan bahan untuk ditulis, tapi lebih karena kebingungan dalam memilih topik.&lt;/p&gt;
+</summary>
+    <content type="html">&lt;p&gt;Untuk bisa tetap menulis blog secara konsisten saat ini ternyata jauh lebih sulit dari yang saya bayangkan. Salah satu kendalanya saya pikir bukan karena saya kekurangan bahan untuk ditulis, tapi lebih karena kebingungan dalam memilih topik.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Seperti yang saya tulis di post pertama, fungsi utama dari blog ini lebih untuk proses pembelajaran buat saya pribadi. Karena menulis tentang suatu ilmu dengan tujuan untuk mengajarkannya adalah salah satu cara untuk menjadi lebih baik dalam ilmu tersebut. &lt;/p&gt;
+
+&lt;p&gt;Disamping itu, seperti yang mungkin pembaca sekarang sudah sadari, kemampuan menulis saya tidak begitu bagus :) Dengan konsisten menulis di blog ini saya berharap itu juga secara bertahap bisa saya perbaiki.&lt;/p&gt;
+
+&lt;p&gt;Kembali ke masalah pemilihan topik, saya hanya akan membahas hal-hal seputar teknologi web yang saya pakai dalam pekerjaan atau sekedar ingin saya pelajari/kuasai. Saat ini dan kedepan, topik-topik berikut ini akan sering saya bahas di blog ini.&lt;/p&gt;
+
+&lt;h2&gt;Programming Language&lt;/h2&gt;
+
+&lt;p&gt;Ruby, JavaScript dan mungkin sedikit PHP :)&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href="http://sass-lang.com"&gt;Sass&lt;/a&gt; &amp;amp; &lt;a href="http://compass-style.org"&gt;Compass&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Webdesigner yang mengikuti perkembangan teknologi saat ini pasti sudah tahu atau malah sudah menggunakan CSS Preprocessor. Ada beberapa pilihan saat ini seperti Less, Stylus dan tentu saja Sass. Sedangkan Compass adalah CSS Framework berbasis Sass, atau seperti disebutkan di buku Sass and Compass In Action, &amp;quot;Compass is a collection of helpful tools and battle-tested best practices for Sass.&amp;quot;&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href="http://middlemanapp.com"&gt;Middleman&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Middleman adalah sebuah Static Site Generator berbasis Ruby. Saya sudah menggunakannya sejak 2009, setelah sebelumnya sudah mencoba beberapa tool sejenis seperti Staticmatic, Webby dan Nanoc. Salah satu alasan kenapa memilih Middleman saat itu adalah karena integrasinya yang sangat baik dengan &lt;a href="http://compass-style.org"&gt;Compass&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;&lt;a href="http://shopify.com"&gt;Shopify&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Shopify adalah suatu layanan e-commerce berbayar. Pertama kali berkenalan dengan Shopify ketika perusahaan tempat saya bekerja ingin membuka online shop. Kemudian mencoba membuat beberapa template komersil yang saya jual melalui satu theme markeplace populer.&lt;/p&gt;
+
+&lt;h2&gt;CMS berbasis PHP&lt;/h2&gt;
+
+&lt;p&gt;Saya lebih senang bekerja di dalam ekosistem Ruby. Tapi untuk proyek website buat klien, tetap CMS berbasis PHP jadi pilihan utama. Walaupun begitu, saat ini pilihan CMS saya bukan salah satu dari &lt;a href="http://www.waterandstone.com/book/big-3-continue-dominate-open-source-cms-race"&gt;The Big Three&lt;/a&gt;, tapi &lt;a href="http://processwire.com"&gt;ProcessWire&lt;/a&gt;. Selain itu saya juga tertarik untuk mencoba &lt;a href="http://bolt.cm"&gt;Bolt&lt;/a&gt; yang baru saja merilis versi 1.0 nya kurang lebih sebulan yang lalu. &lt;/p&gt;
+
+&lt;h2&gt;Text Editor, Shell Utility, Version Control System&lt;/h2&gt;
+
+&lt;p&gt;Applikasi-aplikasi berbasis terminal seperti vim untuk text editor, tmux(terminal multiplexer) dan git sebagai version control system. &lt;/p&gt;
+
+&lt;h2&gt;Process &amp;amp; Workflow&lt;/h2&gt;
+
+&lt;p&gt;Bagaimana proses dan alur kerja dan penggunaan/kombinasi antara tools dalam suatu pekerjaan.&lt;/p&gt;
+
+&lt;p&gt;Demikian beberapa topik-topik yang saat ini sempat terpikirkan, dan kemungkinan besar akan bertambah di kemudian hari. Mudah-mudahan tulisan berikutnya akan muncul dalam waktu yang tidak terlalu lama :)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ditulis mengunakan &lt;a href="http://draftin.com"&gt;Draft&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Post Pertama di 2013</title>
     <link rel="alternate" href="/2013/01/01/post-pertama-di-2013.html"/>
@@ -22,13 +76,13 @@
 dengan blog-blog sebelumnya yang cenderung personal dan umum, kali ini
 saya mencoba untuk fokus membahas hal-hal yang terkait dengan web
 design/development saja. &lt;/p&gt;
-
-&lt;p&gt;Fungsi utama dari blog ini adalah untuk &lt;em&gt;personal learning&lt;/em&gt; dan *future&lt;/p&gt;
 </summary>
     <content type="html">&lt;p&gt;Di tahun 2013 ini, saya mencoba untuk aktif nge-blog lagi. Tapi berbeda
 dengan blog-blog sebelumnya yang cenderung personal dan umum, kali ini
 saya mencoba untuk fokus membahas hal-hal yang terkait dengan web
 design/development saja. &lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Fungsi utama dari blog ini adalah untuk &lt;em&gt;personal learning&lt;/em&gt; dan &lt;em&gt;future
 reference&lt;/em&gt; buat saya pribadi, dan mudah-mudahan juga bisa bermanfaat buat
